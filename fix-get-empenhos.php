@@ -7,7 +7,7 @@
  * Author URI:      https://agencia.fixonweb.com.br
  * Text Domain:     fix-get-empenhos
  * Domain Path:     /languages
- * Version:         0.1.1
+ * Version:         0.1.2
  *
  * @package         Fix_Get_Empenhos
  */
