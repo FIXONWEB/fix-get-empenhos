@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name:     Get Empenhos
- * Plugin URI:      https://agencia.fixonweb.com.br/plugin/fix-get-empenhos
+ * Plugin URI:      https://agencia.fixonweb.com.br/plugin/get-empenhos
  * Description:     Consultar registros de empenhos via API em portaltransparencia.gov.br
  * Author:          FIXONWEB
  * Author URI:      https://agencia.fixonweb.com.br
  * Text Domain:     fix-get-empenhos
  * Domain Path:     /languages
- * Version:         0.1.2
+ * Version:         0.1.3
  *
  * @package         Fix_Get_Empenhos
  */
